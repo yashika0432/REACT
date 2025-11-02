@@ -1,6 +1,6 @@
 import "./Product.css";
 import "./App.css";
-import Button from "../Button";
+import Button from "./Button";
 
 function App() {
   return (
