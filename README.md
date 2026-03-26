@@ -15,3 +15,8 @@ It is designed to:
 ---
 
 ## ✨ Features
+- ⚛️ React functional components
+- 🔄 Examples of hooks (useState, useEffect, etc.)
+- 🎯 Common UI patterns (forms, lists, modals)
+- 🧩 Reusable components
+- 📱 Clean and simple examples
