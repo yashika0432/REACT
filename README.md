@@ -20,3 +20,8 @@ It is designed to:
 - 🎯 Common UI patterns (forms, lists, modals)
 - 🧩 Reusable components
 - 📱 Clean and simple examples
+
+---
+
+## 🛠️ Tech Stack
+- React
