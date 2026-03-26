@@ -11,3 +11,7 @@ It is designed to:
 - Help beginners learn React concepts
 - Provide quick reference code for developers
 - Speed up development with reusable patterns
+
+---
+
+## ✨ Features
