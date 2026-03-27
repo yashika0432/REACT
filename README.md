@@ -25,3 +25,9 @@ It is designed to:
 
 ## 🛠️ Tech Stack
 - React
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository
+   ```git clone https://github.com/yourusername/react-snippets.git```
