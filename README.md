@@ -31,4 +31,6 @@ It is designed to:
 ## 🚀 Getting Started
 1. Clone the repository
    ```git clone https://github.com/yashika0432/REACT```
-2. 
+2. Navigate to the folder
+   ``` cd REACT```
+3. 
