@@ -39,3 +39,9 @@ It is designed to:
 ---
 
 ## 💡 Example Snippet
+Counter component
+
+import { useState } from "react";
+
+function Counter() {
+  const [count, setCount] = useState(0);
