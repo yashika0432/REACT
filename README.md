@@ -33,4 +33,5 @@ It is designed to:
    ```git clone https://github.com/yashika0432/REACT```
 2. Navigate to the folder
    ``` cd REACT```
-3. 
+3. Install dependencies
+   ```npm install```
