@@ -35,3 +35,7 @@ It is designed to:
    ``` cd REACT```
 3. Install dependencies
    ```npm install```
+
+---
+
+## 💡 Example Snippet
