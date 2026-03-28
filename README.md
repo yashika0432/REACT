@@ -66,3 +66,7 @@ export default Counter;
 - Quick reference for common patterns
 - Building reusable components
 - Practicing React concepts
+
+---
+
+## 🤝 Contributing
