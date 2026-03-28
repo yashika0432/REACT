@@ -58,3 +58,11 @@ function Counter() {
 
 export default Counter;
 ```
+---
+
+## 🎯 Use Cases
+
+- Learning React fundamentals
+- Quick reference for common patterns
+- Building reusable components
+- Practicing React concepts
