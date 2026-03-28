@@ -70,3 +70,11 @@ export default Counter;
 ---
 
 ## 🤝 Contributing
+
+Contributions are welcome!
+
+Feel free to:
+
+- Add new snippets
+- Improve existing examples
+- Submit pull requests
